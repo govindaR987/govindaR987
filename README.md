@@ -17,3 +17,4 @@
 
 
 ![GovindaR GitHub stats](https://github-readme-stats.vercel.app/api?username=govindaR987&show_icons=true&theme=vue)
+[![GitHub Activity](https://github.com/govindaR987/govindaR987/actions/workflows/git_read.yml/badge.svg)](https://github.com/govindaR987/govindaR987/actions/workflows/git_read.yml)
