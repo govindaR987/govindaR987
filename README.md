@@ -10,4 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 ![GovindaR GitHub stats](https://github-readme-stats.vercel.app/api?username=govindaR987&show_icons=true&theme=vue)
